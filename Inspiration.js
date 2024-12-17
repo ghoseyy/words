@@ -1,6 +1,6 @@
 [
   "Believe in yourself.",
-  "प्रत्येक क्षणलाई अपनाऊ, किनभने यसले तिम्रो भाग्यलाई आकार दिन्छ।"
+  "प्रत्येक क्षणलाई अपनाऊ, किनभने यसले तिम्रो भाग्यलाई आकार दिन्छ।",
   "Success is not final; failure is not fatal.",
   "Dream big and dare to fail.",
   "You are stronger than you think.",
